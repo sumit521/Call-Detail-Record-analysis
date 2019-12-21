@@ -2,3 +2,9 @@ READ ME
 Disclaimer: Numbers have been randomly generated. Any resemblance with a living person number is purely coincidental.
 
 A project to randomly generate MNP server data and to give target numbers and find out the LSA and TSP to which they belong.
+Use Cygwin and notepad++ to execute the codes.
+mnp.sh is the script file to be executed.
+mnp.txt is randomly generated data for around 11000 numbers containing mobile numbers, lsa name nad tsp name.
+target.txt is list 200 numbers whose details have to be found out.
+detail.txt is details of those 200 numbers.
+sorted.txt is LSA wise sorted details of target numbers.
